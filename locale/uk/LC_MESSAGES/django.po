@@ -1,0 +1,27 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Warehouse 1.0\n"
+"Language: uk\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Warehouse Stock"
+msgstr "Складські запаси"
+
+msgid "Book ID"
+msgstr "ID книги"
+
+msgid "Book"
+msgstr "Книга"
+
+msgid "Quantity"
+msgstr "Кількість"
+
+msgid "Reserved"
+msgstr "Зарезервовано"
+
+msgid "Available"
+msgstr "Доступно"
+
+msgid "No items in warehouse."
+msgstr "На складі немає товарів."
